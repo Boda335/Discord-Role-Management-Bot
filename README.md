@@ -16,8 +16,8 @@ This Discord bot allows users to manage their roles through slash commands. User
 4. Make sure to set up your Discord application and obtain the necessary credentials 
 (
    client ID , image , thumbnail , footer{
-      text:\n
-      iconURL:
+      -text: 
+      -iconURL:
 
    }).
 5. Run the bot using `node index.js`.

@@ -29,7 +29,7 @@ This Discord bot allows users to manage their roles through slash commands. User
 1. `/role`:
    - Description: Sends a control panel for roles.
    - Usage: Use this command to receive a message with a list of roles you can select from, based on the sections set up.
-     [role](https://g.top4top.io/p_3125cbfuj1.png)
+     <img src="https://g.top4top.io/p_3125cbfuj1.png" alt="AstroMusic Illustration">
 
 2. `/add_section`:
    - Description: Adds a new section.

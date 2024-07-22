@@ -73,7 +73,7 @@ This Discord bot allows users to manage their roles through slash commands. User
 7. `/role_list`:
    - Description: Displays a list of all sections and the roles within them.
    - Usage: Use this command to see the sections and the roles associated with each section.
-   - <img src="https://l.top4top.io/p_31252wqck3.jpg" alt="AstroMusic Illustration">
+   - <img src="https://d.top4top.io/p_31256jvue1.jpg" alt="AstroMusic Illustration">
 
 8. `/help`:
    - Description: Displays a list of available commands.

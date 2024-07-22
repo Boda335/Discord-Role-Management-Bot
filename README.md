@@ -1,4 +1,4 @@
-# Discord Role Management Bot
+![image](https://github.com/user-attachments/assets/ec4a97bf-7a33-442f-8808-00f919c46d25)# Discord Role Management Bot
 
 This Discord bot allows users to manage their roles through slash commands. Users can select roles from a list of options provided by the bot.
 
@@ -29,6 +29,7 @@ This Discord bot allows users to manage their roles through slash commands. User
 1. `/role`:
    - Description: Sends a control panel for roles.
    - Usage: Use this command to receive a message with a list of roles you can select from, based on the sections set up.
+     [role](https://g.top4top.io/p_3125cbfuj1.png)
 
 2. `/add_section`:
    - Description: Adds a new section.

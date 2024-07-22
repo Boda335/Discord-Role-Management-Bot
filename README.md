@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec4a97bf-7a33-442f-8808-00f919c46d25)# Discord Role Management Bot
+## Discord Role Management Bot
 
 This Discord bot allows users to manage their roles through slash commands. Users can select roles from a list of options provided by the bot.
 

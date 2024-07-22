@@ -39,7 +39,7 @@ This Discord bot allows users to manage their roles through slash commands. User
      - `section`: The name of the section to add.
    - Usage: Use this command to create a new section where roles can be added.
      <img src="https://f.top4top.io/p_31251dsje9.jpg" alt="AstroMusic Illustration">
-     <img src="https://e.top4top.io/p_312507zkf8.jpg" alt="AstroMusic Illustration">
+     <img src="https://g.top4top.io/p_3125i5dah1.jpg" alt="AstroMusic Illustration">
 
 3. `/addrole`:
    - Description: Adds a role to a specific section.

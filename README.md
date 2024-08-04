@@ -3,7 +3,7 @@
 This Discord bot allows users to manage their roles through slash commands. Users can select roles from a list of options provided by the bot.
 
 ## Features
-
+s
 - Allows users to select roles from a list of options.
 - Administrators can define the roles available for selection.
 - Handles role assignment and removal based on user interaction.

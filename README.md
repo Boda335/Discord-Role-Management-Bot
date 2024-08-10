@@ -60,17 +60,17 @@ This Discord bot allows users to manage their roles through slash commands. User
 4. `/delete_section`:
    - Description: Deletes a section and all roles within it.
    - Options:
-     - `section`: The name of the section to delete.
+   - `section`: The name of the section to delete.
    - Usage: Use this command to remove a section along with all its roles.
      <dev>
-     <img src="https://k.top4top.io/p_31253edku2.jpg" alt="AstroMusic Illustration">
+        <img src="https://k.top4top.io/p_31253edku2.jpg" alt="AstroMusic Illustration">
      </dev>
 
 5. `/remove_role`:
    - Description: Removes a role from a specific section.
    - Options:
-     - `section`: The name of the section from which the role will be removed.
-     - `role`: The role you want to remove from the section.
+   - `section`: The name of the section from which the role will be removed.
+   - `role`: The role you want to remove from the section.
    - Usage: Use this command to delete a specific role from a section.
    <dev>
    <img src="https://l.top4top.io/p_31252wqck3.jpg" alt="AstroMusic Illustration">

@@ -83,7 +83,6 @@ This Discord bot allows users to manage their roles through slash commands. User
    <dev>
    <img src="https://b.top4top.io/p_3125koemp5.jpg" alt="AstroMusic Illustration">
    </dev>
-   - 
 
 7. `/role_list`:
    - Description: Displays a list of all sections and the roles within them.
